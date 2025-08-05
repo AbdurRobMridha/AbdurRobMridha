@@ -26,7 +26,7 @@
 ### 💼 About Me
 
 - 🔭 I’m currently working on **JU CSE Department Management**
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Full Stack Development && Cyber Secuirity**
 - 👨‍💻 All my projects are available at:  
   [github.com/AbdurRobMridha](https://github.com/AbdurRobMridha/AbdurRobMridha)
 - 💬 Ask me about **HTML, CSS, JavaScript, C, C++, Java**
