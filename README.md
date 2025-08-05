@@ -3,7 +3,7 @@
   <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
        alt="GitHub Banner" 
        width="100%"
-        height:= "70%"/>
+        height:= "50%"/>
 </p>
 
 <!-- 👋 Introduction -->
@@ -18,17 +18,19 @@
 
 ---
 
-### 🔭 I’m currently working on:
-- 🌱 Building full-stack apps using MERN stack
-- 🧪 Exploring AI tools and automation workflows
-
----
 <!-- 👁️‍🗨️ Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdurrobmridha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
+
+### 🔭 I’m currently working on:
+- 🌱 Building full-stack apps using MERN stack
+- 🧪 Exploring AI tools and automation workflows
+- 🔐  Learning Cyber Secuirity 
+---
+
 
 ### 💼 About Me
 
@@ -174,8 +176,8 @@
 ---
 ### 💼 Portfolio
 
-🌐 Visit my portfolio: [abdurrob.dev](https://abdurrob.dev)  
-📬 Contact: [abdurrob@email.com](mailto:abdurrobrob5411@gmail.com)
+🌐 Visit my portfolio: [Abdur Rob.Com]([https://abdurrob.dev](https://abdurrobmridha.github.io/Abdur-Rob-Personal-Biopic-Website/))  
+📬 Contact: [abdurrob5411@gmail.com](mailto:abdurrobrob5411@gmail.com)
 
 ---
 ### 📜 Certifications & Badges
