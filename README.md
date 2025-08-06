@@ -40,7 +40,7 @@
   [github.com/AbdurRobMridha](https://github.com/AbdurRobMridha/AbdurRobMridha)
 - 💬 Ask me about **HTML, CSS, JavaScript, C, C++, Java**
 - 📫 Reach me at **abdurrobrob5411@gmail.com**
-- ⚡ Fun fact: **I think boom :)**
+- ⚡ Fun fact: **I think boom 🤪:)**
 
 ---
 
@@ -176,7 +176,7 @@
 ---
 ### 💼 Portfolio
 
-🌐 Visit my portfolio: [Abdur Rob.Com]([https://abdurrob.dev](https://abdurrobmridha.github.io/Abdur-Rob-Personal-Biopic-Website/))  
+🌐 Visit my portfolio: [Abdur Rob Mridha](https://abdurrobmridha.github.io/Abdur-Rob-Personal-Biopic-Website/)  
 📬 Contact: [abdurrob5411@gmail.com](mailto:abdurrobrob5411@gmail.com)
 
 ---
