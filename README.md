@@ -182,11 +182,13 @@
 ---
 ### 📜 Certifications & Badges
 
-| Certification | Issuer | Link |
-|---------------|--------|------|
-| ![Badge](https://img.shields.io/badge/FreeCodeCamp-Responsive%20Web%20Design-brightgreen) | freeCodeCamp | [View](https://www.freecodecamp.org/certification/abdur_rob_mridha/responsive-web-design) |
-| ![Badge](https://img.shields.io/badge/Udemy-CyberSecurity%20Bootcamp-blue) | Udemy | [View](https://www.udemy.com/certificate/UC-0d97c0f3-76d7-4749-aaf1-909d70a91bb3/) |
+| Certification                          | Issuer        | Link                                                                                 |
+|--------------------------------------|---------------|--------------------------------------------------------------------------------------|
+| ![Badge](https://img.shields.io/badge/FreeCodeCamp-Responsive%20Web%20Design-brightgreen) | freeCodeCamp  | [View](https://www.freecodecamp.org/certification/abdur_rob_mridha/responsive-web-design) |
+| ![Badge](https://img.shields.io/badge/Udemy-CyberSecurity%20Bootcamp-blue)                 | Udemy         | [View](https://www.udemy.com/certificate/UC-0d97c0f3-76d7-4749-aaf1-909d70a91bb3/)         |
+| ![Badge](https://img.shields.io/badge/KnowledgeGate-JavaScript%20Complete-orange)          | KnowledgeGate | [Verify](https://learn.knowledgegate.ai/learn/certificate/12059801-219977)                 |
 ---
+
 
 
 
