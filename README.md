@@ -184,9 +184,10 @@
 
 | Certification                          | Issuer        | Link                                                                                 |
 |--------------------------------------|---------------|--------------------------------------------------------------------------------------|
-| ![Badge](https://img.shields.io/badge/FreeCodeCamp-Responsive%20Web%20Design-brightgreen) | freeCodeCamp  | [Verify](https://www.freecodecamp.org/certification/abdur_rob_mridha/responsive-web-design) |
-| ![Badge](https://img.shields.io/badge/Udemy-CyberSecurity%20Bootcamp-blue)                 | Udemy         | [Verify](https://www.udemy.com/certificate/UC-0d97c0f3-76d7-4749-aaf1-909d70a91bb3/)         |
+| ![Badge](https://img.shields.io/badge/FreeCodeCamp-Responsive%20Web%20Design-brightgreen) | freeCodeCamp  | [View](https://www.freecodecamp.org/certification/abdur_rob_mridha/responsive-web-design) |
+| ![Badge](https://img.shields.io/badge/Udemy-CyberSecurity%20Bootcamp-blue)                 | Udemy         | [View](https://www.udemy.com/certificate/UC-0d97c0f3-76d7-4749-aaf1-909d70a91bb3/)         |
 | ![Badge](https://img.shields.io/badge/KnowledgeGate-JavaScript%20Complete-orange)          | KnowledgeGate | [Verify](https://learn.knowledgegate.ai/learn/certificate/12059801-219977)                 |
+| ![Badge](https://img.shields.io/badge/Udemy-Building%20Your%20Personal%20Website-blueviolet) | Udemy         | [View](https://www.udemy.com/certificate/UC-56467aee-c7e6-4c8f-9767-c7f7ab2c9481/)         |
 ---
 
 
