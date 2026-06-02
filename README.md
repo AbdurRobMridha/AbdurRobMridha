@@ -179,21 +179,24 @@
 
 ---
 ### 📜 Certifications & Badges
-
-| Certification                          | Issuer        | Link                                                                                 |
-|--------------------------------------|---------------|--------------------------------------------------------------------------------------|
-| ![Badge](https://img.shields.io/badge/FreeCodeCamp-Responsive%20Web%20Design-brightgreen) | freeCodeCamp  | [View](https://www.freecodecamp.org/certification/abdur_rob_mridha/responsive-web-design) |
-| ![Badge](https://img.shields.io/badge/FreeCodeCamp-Responsive%20Web%20Design-brightgreen) | freeCodeCamp (Updated)  | [View](https://www.freecodecamp.org/certification/fcc-a2e769a9-df3d-42de-9854-8e2fb954e7cf/responsive-web-design) |
-| ![Badge](https://img.shields.io/badge/Udemy-CyberSecurity%20Bootcamp-blue)                 | Udemy         | [View](https://www.udemy.com/certificate/UC-0d97c0f3-76d7-4749-aaf1-909d70a91bb3/)         |
-| ![Badge](https://img.shields.io/badge/KnowledgeGate-JavaScript%20Complete-orange)          | KnowledgeGate | [Verify](https://learn.knowledgegate.ai/learn/certificate/12059801-219977)                 |
-| ![Badge](https://img.shields.io/badge/Udemy-Building%20Your%20Personal%20Website-blueviolet) | Udemy         | [View](https://www.udemy.com/certificate/UC-56467aee-c7e6-4c8f-9767-c7f7ab2c9481/)         |
----
-
-
+| Certification                                                                                                             | Issuer          | Link                                                                                                                 |
+|---------------------------------------------------------------------------------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------|
+| ![Badge](https://img.shields.io/badge/FreeCodeCamp-Responsive%20Web%20Design-brightgreen)                                 | freeCodeCamp    | [View](https://www.freecodecamp.org/certification/abdur_rob_mridha/responsive-web-design)                            |
+| ![Badge](https://img.shields.io/badge/FreeCodeCamp-Responsive%20Web%20Design-brightgreen)                                 | freeCodeCamp    | [View](https://www.freecodecamp.org/certification/fcc-a2e769a9-df3d-42de-9854-8e2fb954e7cf/responsive-web-design)    |
+| ![Badge](https://img.shields.io/badge/Udemy-CyberSecurity%20Bootcamp-blue)                                                | Udemy           | [View](https://www.udemy.com/certificate/UC-0d97c0f3-76d7-4749-aaf1-909d70a91bb3/)                                   |
+| ![Badge](https://img.shields.io/badge/KnowledgeGate-JavaScript%20Complete-orange)                                         | KnowledgeGate   | [Verify](https://learn.knowledgegate.ai/learn/certificate/12059801-219977)                                           |
+| ![Badge](https://img.shields.io/badge/Udemy-Building%20Your%20Personal%20Website-blueviolet)                              | Udemy           | [View](https://www.udemy.com/certificate/UC-56467aee-c7e6-4c8f-9767-c7f7ab2c9481/)                                   |
+| ![Badge](https://img.shields.io/badge/Coursera-Foundations%20of%20Cybersecurity-blue)                                     | Coursera/Google | [Verify](https://coursera.org/verify/FCJV8BOU7WWU)                                                                   |
+| ![Badge](https://img.shields.io/badge/Coursera-Play%20It%20Safe:%20Manage%20Security%20Risks-blue)                        | Coursera/Google | [Verify](https://coursera.org/verify/0V0WE9O1XB2E)                                                                   |
+| ![Badge](https://img.shields.io/badge/Coursera-Connect%20and%20Protect:%20Networks%20and%20Network%20Security-blue)       | Coursera/Google | [Verify](https://coursera.org/verify/KZSDIDN2H15P)                                                                   |
+| ![Badge](https://img.shields.io/badge/Coursera-Tools%20of%20the%20Trade:%20Linux%20and%20SQL-blue)                        | Coursera/Google | [Verify](https://coursera.org/verify/FC103GWMIX8K)                                                                   |
+| ![Badge](https://img.shields.io/badge/HarvardX-CS50AI:%20Intro%20to%20AI%20with%20Python-crimson)                         | HarvardX / edX  | [Verify](https://courses.edx.org/certificates/2d3f3a30192b43d0a88b1b8a7868bb90)[cite: 6]                                     |
+| ![Badge](https://img.shields.io/badge/HarvardX-CS50x:%20Intro%20to%20Computer%20Science-crimson)                          | HarvardX / edX  | [Verify](https://courses.edx.org/certificates/42d1e533e3954015a65a159361df5c56)[cite: 7]                                     |
+| ![Badge](https://img.shields.io/badge/HarvardX-CS50%20Cybersecurity-crimson)                                              | HarvardX / edX  | [Verify](https://courses.edx.org/certificates/61431bc23ebf47f58774a483e0d27686)[cite: 8]                                     |
 
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrobmridha&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=abdurrobmridha&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
