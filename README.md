@@ -173,6 +173,8 @@
 ### 💼 Portfolio
 
 🌐 Visit my portfolio: [Abdur Rob Mridha](https://abdurrobmridha.github.io/Abdur-Rob-Personal-Biopic-Website/)  
+
+🌐 Visit my portfolio [Updated]: [Abdur Rob Mridha](https://0x4bdur-rob.netlify.app/)  
 📬 Contact: [abdurrob5411@gmail.com](mailto:abdurrobrob5411@gmail.com)
 
 ---
