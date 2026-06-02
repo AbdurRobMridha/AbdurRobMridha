@@ -1,11 +1,7 @@
-<!-- 🌟 GitHub Profile Banner -->
-<p align="center">
-  <img src="[https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://www.google.com/imgres?q=github%20banner&imgurl=https%3A%2F%2Fopengraph.githubassets.com%2F4fb331b20c398179e623bf7267c27c4cef8653c37ab4c7d16d0f0324dd7744a8%2Ftmcw%2Fnode-banner&imgrefurl=https%3A%2F%2Fgithub.com%2Ftmcw%2Fnode-banner&docid=-sXpyFpkxYyN5M&tbnid=AnFP1a2183QSZM&vet=12ahUKEwjCi-m53-iUAxXQUGwGHXDuNdYQnPAOegQIFBAB..i&w=1200&h=630&hcb=2&ved=2ahUKEwjCi-m53-iUAxXQUGwGHXDuNdYQnPAOegQIFBAB)" 
-       alt="GitHub Banner" 
-       width="100%"
-        height:= "50%"/>
-</p>
 
+<p align="center">
+  <img src="cybersecurity banner(github).png" width="100%" />
+</p>
 <!-- 👋 Introduction -->
 <h1 align="center">Hi 👋, I'm Abdur Rob Mridha</h1>
 <h3 align="center">🚀 A passionate Full Stack Developer (learner) && Cyber Secuirity Learner from Bangladesh</h3>
